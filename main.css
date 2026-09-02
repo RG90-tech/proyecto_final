@@ -101,11 +101,12 @@ section {
 }
 
 .hero {
-  position:relative;
+  position: relative;
   width: 100vw;
   height: 1000px;
   margin-left: calc(50% - 50vw);
-  background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url("logo.jpeg");
+  background-image:
+    linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url("logo.jpeg");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
