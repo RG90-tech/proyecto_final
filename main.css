@@ -191,6 +191,9 @@ section {
 }
 
 .paquete-contenido {
+  list-style: none;
+  padding-left: 0;
+  margin-left: 0;
   font-size: 17px;
   line-height: 1.7;
   flex: 1;
@@ -198,6 +201,9 @@ section {
 }
 
 .precio {
+  list-style: none;
+  padding-left: 0;
+  margin-left: 0;
   margin-top: 20px;
   font-size: 22px;
   font-weight: bold;
@@ -205,6 +211,9 @@ section {
 }
 
 .adicionales {
+  list-style: none;
+  padding-left: 0;
+  margin-left: 0;
   width: 80%;
   max-width: 800px;
   margin: 40px auto;
